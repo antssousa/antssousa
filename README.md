@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 </div>
   
   ![Snake animation](https://github.com/antssousa/antssousa/blob/output/github-contribution-grid-snake.svg) 
+   <img src="https://komarev.com/ghpvc/?username=antssousa&color=green" alt="antssousa" /> 
