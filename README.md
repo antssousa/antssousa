@@ -1,4 +1,4 @@
-### Oi! Eu sou o Antonio Sousa 👋
+### Hi there! I'm Antonio Sousa 👋
 
 <!--
 **antssousa/antssousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
