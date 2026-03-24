@@ -1,4 +1,4 @@
-# Olá! Eu sou Antonio Santos de Sousa 👋
+# Olá! Eu sou Antonio Sousa 👋
 
 ### 👨‍🏫 Professor & Coordenador Técnico em Informática no IFPI | Pesquisador em IA e Computação Gráfica
 
@@ -17,7 +17,7 @@
 
 Mestre em Computação pela Universidade Federal do Ceará (UFC), com pesquisa focada em **controle de movimento de personagens simulados utilizando Aprendizado por Reforço**. Sou bacharel em Ciência da Computação (UESPI) e atuo como professor no Instituto Federal do Piauí (IFPI) desde 2012, onde atualmente também exerço a função de coordenador do curso técnico em Informática.
 
-**🌟 Áreas de Interesse:** Ciência da Computação, Aprendizado de Máquina (Machine Learning), Computação Gráfica e Programação.
+**🌟 Áreas de Interesse:** Ciência da Computação, Inteligência Artificial, Computação Gráfica e Programação.
 
 ---
 
@@ -25,9 +25,6 @@ Mestre em Computação pela Universidade Federal do Ceará (UFC), com pesquisa f
 
 - 🤖 **Simulação com Aprendizado por Reforço (2022–2023):** Uso do Unity 3D e ML-Agents.
 - 🔐 **Análise Criptográfica (2023):** Métodos do Júlio César ao RSA.
-- 📱 **Aplicativo Móvel para Registro de Ações Policiais (2018).**
-- 📝 **Software para Correção Automática de Provas (2017–2018).**
-- 📚 **Aplicações Educacionais com Hardware e Programação (2014–2015).**
 
 *(Confira minhas publicações completas e artigos, como "Physics-Based Motion Control Through DRL’s Reward Functions (SVR, 2021)", em meu currículo Lattes).*
 
