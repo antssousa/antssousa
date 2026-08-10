@@ -1,3 +1,5 @@
+
+
 # Olá! Eu sou Antonio Sousa 👋
 
 ### 👨‍🏫 Professor & Coordenador Técnico em Informática no IFPI | Pesquisador em IA e Computação Gráfica
@@ -59,7 +61,7 @@ Ministro disciplinas e possuo experiência técnica em: **Programação Orientad
 </div>
 
 <p align="center">
-  <img src="https://github.com/antssousa/antssousa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/antssousa/antssousa/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 <p align="center">
